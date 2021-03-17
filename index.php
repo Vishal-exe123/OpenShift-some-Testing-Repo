@@ -1,3 +1,4 @@
 <?php
-print "Hiii...";
+$txt = "PHP";
+echo "I love $txt!";
 ?>
